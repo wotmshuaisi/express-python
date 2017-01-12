@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-__auther__ = 'slll.info'
+__auther__ = 'AAAAC-bb'
 __date__ = '2016-7'
 #module import
 import requests,json
